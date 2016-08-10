@@ -1,13 +1,13 @@
 #wrapper {
 	width: 1000px;
 	height: 760px;
-	background-color: gray;
 }
 
 .grid {
 	width: 12px;
 	height: 12px;
 	float: left;
+	background-color: gray;
 }
 
 .draw {
